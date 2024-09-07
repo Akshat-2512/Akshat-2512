@@ -2,22 +2,17 @@
 
 <!-- **Akshat-2512/Akshat-2512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 **Hi, I'm Akshat Agarwal 👋**
-Welcome to my GitHub! I'm an economist by training, a tech enthusiast by passion, and a machine learning aficionado by choice. Here, you'll find my adventures in finance, quantitative analysis, and tech projects—especially in Python!
+Welcome to my GitHub! I am a graduate from IIT Bombay. I'm an economist by training, a tech enthusiast by passion, and a machine learning aficionado by choice. Here, you'll find my adventures in finance, quantitative analysis, and tech projects—especially in Python!
+
+
+
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" height="400">
 <br><br>
 
 
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Differential Privacy
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🍄 I’m currently working on Differential Privacy
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -29,3 +24,6 @@ Here are some ideas to get you started:
 <h3 align="left">📫 How to reach me:</h3>
 <a href="https://twitter.com/AkshatAg2512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/akshat-agarwal-847556203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="mailto:akshatagarwal2512@gmail.com" target="_blank" rel="noreferrer">
+    <img align="center" src="https://github.com/Akshat-2512/Akshat-2512/blob/main/gmail.svg" height="30" width="40" />
+</a>
