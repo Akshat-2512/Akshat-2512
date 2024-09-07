@@ -6,8 +6,9 @@ Welcome to my GitHub! I'm an economist by training, a tech enthusiast by passion
 
 
 ### 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-agarwal-847556203/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/AkshatAg2512)
+<a href="https://twitter.com/AkshatAg2512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityar59271091" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akshat-agarwal-847556203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-raj-215861208" height="30" width="40" /></a>
+
 
 
 Here are some ideas to get you started:
