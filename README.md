@@ -2,7 +2,7 @@
 
 <!-- **Akshat-2512/Akshat-2512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 **Hi, I'm Akshat Agarwal 👋**
-Welcome to my GitHub! I am a graduate from IIT Bombay who is an economist by training, a tech enthusiast by passion, and a machine learning aficionado by choice. Here, you'll find my adventures in finance, quantitative analysis, and tech projects—especially in Python!
+Welcome to my GitHub! 
 
 
 
